@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://poke-poc-1773228168.loca.lt
+    url: https://test-repository-sigma-blond.vercel.app/
     type: "markup"
     suffix: ".html"
