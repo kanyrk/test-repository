@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://swift-carpets-bake.loca.lt
+    url: https://poke-poc-1773228168.loca.lt
     type: "markup"
     suffix: ".html"
