@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133185-e1320482.adobeaemcloud.com/bin/franklin.delivery/kanyrk/test-repository/main
+    url: https://swift-carpets-bake.loca.lt
     type: "markup"
     suffix: ".html"

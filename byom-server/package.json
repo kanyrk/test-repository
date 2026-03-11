@@ -1,0 +1,13 @@
+{
+  "name": "byom-server",
+  "version": "1.0.0",
+  "description": "BYOM Express Server for AEM Edge Delivery",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "node-html-parser": "^6.1.13"
+  }
+}
